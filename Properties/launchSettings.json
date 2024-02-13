@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "EtacToKiSync": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7170"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 30790,
+      "useSSL": false
+    }
+  }
+}
